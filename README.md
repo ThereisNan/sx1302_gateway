@@ -1,0 +1,2 @@
+# sx1302_gateway
+使用树莓派搭载semtech sx1302s芯片实现透明传输的lora 网关外加Lora终端识别
